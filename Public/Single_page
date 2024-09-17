@@ -1,1 +1,55 @@
-
+<!DOCTYPEL html>
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!-- SEO Meta Tags -->
+    <meta name="description" content="Articles for a simple HTML-only website for roadmap.sh frontend" />
+    <meta name="keywords" content="Frontend Project, HTML, Roadmap.sh" />
+    <meta name="author" content="Aitana" />
+    <title>asic HTML Website</title>
+  </head>
+  <body>
+  <h1> Aitana Martino Brea </h1>
+    <h2> Junior Frontend Develodiver </h2>
+    <div>first line Address</div>
+    <div>City</div>
+    <div>divhone</div>
+    <div>Email</div>
+    <h2> Skills </h2>
+    <div>HTML, CSS, JavaScridivt, Accessibility, Figma to Design,         Resdivonsive Web Design,
+  Technical Writing, divresentation.</div>
+    <h2> Education </h2>
+      <h3> School Name, Location - Degree</h3>
+      <div>Month 20xx to Month 20xx</div>
+      <div>List of exciting things you did at university</div>
+      <ul>
+      <li>First</li>
+      <li>Second</li>
+      </ul>
+    <h2> Experience</h2>
+      <h3> School Name, Location - Degree</h3>
+      <div>Month 20xx to Month 20xx</div>
+      <div>List of exciting things you did at university</div>
+      <ul>
+      <li>First</li>
+      <li>Second</li>
+      <li>Third</li>
+      </ul>
+      <div>Skills are my pasion</div>
+        <h3> School Name, Location - Degree</h3>
+        <div>Month 20xx to Month 20xx</div>
+        <div>List of exciting things you did at university</div>
+        <ul>
+        <li>First</li>
+        <li>Second</li>
+        <li>Third</li>
+        </ul>
+        <div>Skills are my pasion</div>
+        <h2>Across the Internet</h2>
+        <div>Add you linkedln, Github profile links</div>
+   </body>
+      <footer>
+      <p>&copy; all rights reserved 2024</p>
+    </footer>
+</html>
