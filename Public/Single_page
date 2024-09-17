@@ -7,7 +7,8 @@
     <meta name="description" content="Articles for a simple HTML-only website for roadmap.sh frontend" />
     <meta name="keywords" content="Frontend Project, HTML, Roadmap.sh" />
     <meta name="author" content="Aitana" />
-    <title>asic HTML Website</title>
+    <title>Basic HTML Website</title>
+    <link rel="icon" type="image/x-icon" href="/images/favicon.ico">
   </head>
   <body>
   <h1> Aitana Martino Brea </h1>
