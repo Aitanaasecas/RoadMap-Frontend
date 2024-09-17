@@ -6,3 +6,5 @@
 * Metaetiquetas SEO en la sección del encabezado. 
 * Etiquetas OG para compartir mejor en las redes sociales. 
 * Un favicon enlazado en la sección del encabezado.
+
+https://roadmap.sh/projects/single-page-cv/solutions?u=66b611760f660dfe9f797bcd
