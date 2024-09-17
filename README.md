@@ -13,4 +13,3 @@
 ## Backend prohjects
 * Task tracker
 
-https://roadmap.sh/projects/single-page-cv/solutions?u=66b611760f660dfe9f797bcd
