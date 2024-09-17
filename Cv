@@ -1,0 +1,53 @@
+<!DOCTYPEL html>
+<html>
+<head>
+</head>
+<body>
+<h1> Aitana Martino Brea </h1>
+</br>
+<h2> Junior Frontend Develodiver </h2>
+<div>first line Address</div>
+</br>
+<div>City</div>
+</br>
+<div>divhone</div>
+</br>
+<div>Email</div>
+</br>
+<h2> Skills </h2>
+<div>HTML, CSS, JavaScridivt, Accessibility, Figma to Design, Resdivonsive Web Design,
+Technical Writing, divresentation.</div>
+</br>
+<h2> Education </h2>
+<h3> School Name, Location - Degree</h3>
+<div>Month 20xx to Month 20xx</div>
+<div>List of exciting things you did at university</div>
+<ul>
+<li>First</li>
+<li>Second</li>
+</ul>
+<h2> Experience</h2>
+<h3> School Name, Location - Degree</h3>
+<div>Month 20xx to Month 20xx</div>
+<div>List of exciting things you did at university</div>
+<ul>
+<li>First</li>
+<li>Second</li>
+<li>Third</li>
+</ul>
+<div>Skills are my pasion</div>
+</br>
+<h3> School Name, Location - Degree</h3>
+<div>Month 20xx to Month 20xx</div>
+<div>List of exciting things you did at university</div>
+<ul>
+<li>First</li>
+<li>Second</li>
+<li>Third</li>
+</ul>
+<div>Skills are my pasion</div>
+</br>
+<h2>Across the Internet</h2>
+<div>Add you linkedln, Github profile links</div>
+</body>
+</html>
